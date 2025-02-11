@@ -76,10 +76,10 @@ Soon
 
 **Leo Thomas Ramos**  
 [LinkedIn](https://www.linkedin.com/in/leo-thomas-ramos/) - ltramos@cvc.uab.cat  
-*Computer Vision Center, Universitat Autònoma de Barcelona, Spain*  
+*Computer Vision Center, Universitat Autònoma de Barcelona, Barcelona, Spain*  
 
 **Francklin Rivas-Echeverría**  
 [LinkedIn](https://www.linkedin.com/in/francklin-rivas-echeverria-514180144/) - francklin.rivas@uta.edu  
-*University of Texas at Arlington, USA*  
+*University of Texas at Arlington, Texas, USA*  
 
 
