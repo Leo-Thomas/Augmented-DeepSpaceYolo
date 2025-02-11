@@ -1,4 +1,7 @@
 # Augmented-DeepSpaceYolo Dataset
+
+![alt text](sample.png)
+
 ## About the project
 
 This repository refers to the Augmented-DeepSpaceYolo dataset, which was used in the study [Deep Sky Object Detection in Astronomical Imagery Using YOLO Models: A Comparative Assessment](#). This dataset is an augmented version of the DeepSpaceYoloDataset, originally introduced in [DeepSpaceYoloDataset: Annotated Astronomical Images Captured with Smart Telescopes](https://www.mdpi.com/2306-5729/9/1/12), and is designed for deep sky object (DSO) detection, including nebulae, galaxies, and globular clusters.
@@ -35,7 +38,7 @@ The labels are provided in **YOLO format**, making them compatible with popular 
 
 ## Download dataset
 
-The dataset is available for download via Google Drive [here](https://www.isprs.org/education/benchmarks/UrbanSemLab/2d-sem-label-potsdam.aspx).
+The dataset is available for download via Google Drive [here](https://drive.google.com/drive/folders/1HY_Xkc_tCFEVVOWdh_CSSgs5n_m1fGVb?usp=sharing).
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -73,10 +76,10 @@ Soon
 
 **Leo Thomas Ramos**  
 [LinkedIn](https://www.linkedin.com/in/leo-thomas-ramos/) - ltramos@cvc.uab.cat  
-*Computer Vision Center (CVC), Universitat Autònoma de Barcelona (UAB), Spain*  
+*Computer Vision Center, Universitat Autònoma de Barcelona, Spain*  
 
 **Francklin Rivas-Echeverría**  
 [LinkedIn](https://www.linkedin.com/in/francklin-rivas-echeverria-514180144/) - francklin.rivas@uta.edu  
-*University of Texas at Arlington (UTA), USA*  
+*University of Texas at Arlington, USA*  
 
 
