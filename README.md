@@ -4,7 +4,7 @@
 
 ## About the project
 
-This repository refers to the Augmented-DeepSpaceYolo dataset, which was used in the study [Deep Sky Object Detection in Astronomical Imagery Using YOLO Models: A Comparative Assessment](#). This dataset is an augmented version of the DeepSpaceYoloDataset, originally introduced in [DeepSpaceYoloDataset: Annotated Astronomical Images Captured with Smart Telescopes](https://www.mdpi.com/2306-5729/9/1/12), and is designed for deep sky object (DSO) detection, including nebulae, galaxies, and globular clusters.
+This repository refers to the Augmented-DeepSpaceYolo dataset, which was used in the study [Deep Sky Object Detection in Astronomical Imagery Using YOLO Models: A Comparative Assessment](https://link.springer.com/article/10.1007/s00521-025-11223-4). This dataset is an augmented version of the DeepSpaceYoloDataset, originally introduced in [DeepSpaceYoloDataset: Annotated Astronomical Images Captured with Smart Telescopes](https://www.mdpi.com/2306-5729/9/1/12), and is designed for deep sky object (DSO) detection, including nebulae, galaxies, and globular clusters.
 
 ## Data set description
 
