@@ -68,8 +68,14 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 If you find this dataset useful, please cite the following article:
 
 ```
-Soon
-
+@article{ramos_rivas-echeverría_2025,
+title={Deep sky object detection in astronomical imagery using YOLO models: a comparative assessment},
+DOI={https://doi.org/10.1007/s00521-025-11223-4},
+journal={Neural Computing and Applications},
+publisher={Springer Science and Business Media LLC},
+author={Ramos, Leo Thomas and Rivas-Echeverría, Francklin},
+year={2025},
+month={Apr}}
 ```
 <!-- CONTACT -->
 ## Contact
